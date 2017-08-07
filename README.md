@@ -1,6 +1,7 @@
 # README #
 
-https://user-images.githubusercontent.com/26554257/29013421-049e63f2-7b11-11e7-9b72-8c5ec1fb5ca1.png
+![screen shot 2017-08-07 at 1 37 07 am](https://user-images.githubusercontent.com/26554257/29013421-049e63f2-7b11-11e7-9b72-8c5ec1fb5ca1.png)
+
 
 GAME RULES:
 - The game has 2 players, playing in rounds
