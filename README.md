@@ -1,5 +1,7 @@
 # README #
 
+https://user-images.githubusercontent.com/26554257/29013421-049e63f2-7b11-11e7-9b72-8c5ec1fb5ca1.png
+
 GAME RULES:
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
